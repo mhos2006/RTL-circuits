@@ -30,3 +30,8 @@ https://github.com/user-attachments/assets/247801db-2280-493d-9bdd-d6d0273200bf
 ## Schematic and PCB Documentation
 
 I created the schematic using KiCad software. While my schematic has been verified, I have not yet moved the components over to PCB software as I must still add component footnotes. PCB layout and component placement is in progress.
+
+## Documentation
+
+For a full breakdown of the empirical voltage measurements and analysis, please see the attached technical report .docx.
+
